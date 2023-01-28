@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me llamo bruno, tengo 20 y soy de argentina. Actualmente me encuentro enfocado en ser desarrollador full stack, pudiendo cada dia aprender mas y mas sobre lo que me apasiona, como las tecnologias que surgen cada dia y tendencias de las mismas
+Me llamo bruno, tengo 20 y soy de argentina. Actualmente me encuentro enfocado en ser desarrollador full stack, pudiendo cada dia aprender mas y mas sobre lo que me apasiona, como las tecnologias que surgen cada dia y tendencias de las mismas.
 
 
 # 💻 Tech Stack:
